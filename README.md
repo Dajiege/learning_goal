@@ -1,4 +1,4 @@
-1、能够熟练运用HTML、CSS、Javascript构建高性能的Web应用程序
+1、能够熟练运用HTML、CSS、Javascript构建<strong>高性能的Web应用程序</strong>
 
 2、理解WEB标准和兼容性，对可用性相关知识有实际的了解和实践经验
 
